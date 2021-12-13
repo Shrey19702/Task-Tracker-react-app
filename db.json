@@ -5,6 +5,12 @@
       "day": "2021-12-22",
       "reminder": true,
       "id": 1
+    },
+        {
+      "text": "Go to market",
+      "day": "2021-12-16",
+      "reminder": true,
+      "id": 1
     }
   ]
 }
